@@ -1,0 +1,40 @@
+=============== Nov 2, 2023 (IST) ===============
+18:09:01.535176 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+18:09:01.542864 db@open opening
+18:09:01.544041 version@stat F·[] S·0B[] Sc·[]
+18:09:01.546161 db@janitor F·2 G·0
+18:09:01.546161 db@open done T·3.2962ms
+18:09:01.578351 db@close closing
+18:09:01.578351 db@close done T·0s
+=============== Nov 2, 2023 (IST) ===============
+18:28:55.993395 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+18:28:55.994028 version@stat F·[] S·0B[] Sc·[]
+18:28:55.994028 db@open opening
+18:28:55.994028 journal@recovery F·1
+18:28:55.997996 journal@recovery recovering @1
+18:28:55.997996 memdb@flush created L0@2 N·623 S·51KiB "\x02d\xfc..\x19Ba,v430":"\xfe\x88\xcf..H\xef\xcc,v363"
+18:28:56.008360 version@stat F·[1] S·51KiB[51KiB] Sc·[0.25]
+18:28:56.008360 db@janitor F·3 G·0
+18:28:56.008360 db@open done T·14.332ms
+=============== Nov 2, 2023 (IST) ===============
+18:29:15.904695 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+18:29:15.906712 version@stat F·[1] S·51KiB[51KiB] Sc·[0.25]
+18:29:15.906712 db@open opening
+18:29:15.908064 journal@recovery F·1
+18:29:15.911344 journal@recovery recovering @3
+18:29:15.911344 memdb@flush created L0@5 N·266 S·11KiB "Dat..ion,v626":"unc..own,v632"
+18:29:15.911344 version@stat F·[2] S·63KiB[63KiB] Sc·[0.50]
+18:29:15.926521 db@janitor F·4 G·0
+18:29:15.927521 db@open done T·20.8096ms
+=============== Nov 2, 2023 (IST) ===============
+18:30:09.782648 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+18:30:09.782648 version@stat F·[2] S·63KiB[63KiB] Sc·[0.50]
+18:30:09.782648 db@open opening
+18:30:09.782648 journal@recovery F·1
+18:30:09.784753 journal@recovery recovering @6
+18:30:09.788247 memdb@flush created L0@8 N·2 S·422B "eth..\u007f\xf4\xf8,v892":"unc..own,v893"
+18:30:09.791261 version@stat F·[3] S·63KiB[63KiB] Sc·[0.75]
+18:30:09.799366 db@janitor F·5 G·0
+18:30:09.799366 db@open done T·16.7177ms
+19:08:01.067658 db@close closing
+19:08:01.068204 db@close done T·545.3µs
